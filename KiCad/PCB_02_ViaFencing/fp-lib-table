@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RF_SubGHz")(type "KiCad")(uri "/media/sf_Compartida_VM/PCB_FullDuplex_SubGHz/RF_SubGHz.pretty")(options "")(descr ""))
+)
